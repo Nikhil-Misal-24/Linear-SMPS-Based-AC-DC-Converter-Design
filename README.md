@@ -54,9 +54,13 @@ Soldering (Through-hole / SMD components)
 📐 PCB Design Highlights
 
 Proper ground plane design for noise reduction
+
 Thermal management (heat sinks for regulators)
+
 Track width optimization for high current paths
+
 Isolation between high-voltage AC and low-voltage DC sections
+
 Compact and single-layer / double-layer PCB options
 
 🚀 Applications
